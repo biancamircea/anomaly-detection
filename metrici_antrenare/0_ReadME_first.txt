@@ -2,6 +2,10 @@
 ADMoE – Detectarea anomaliilor cu Mixture-of-Experts din noisy labels
 ================================================================================
 
+Pentru scripturile din repo-ul intial, se pot gasi la adresa de gooogle drive urmatoare:https://drive.google.com/drive/folders/1ob0g6vYSnad-1jXZfPDHg2h0Js0AhmDR
+
+Scripturile de rulat rebuiesc sa se afle in acelas folder cu celelalte din drive .
+
 1. INSTALARE
 --------------------------------------------------------------------------------
 
