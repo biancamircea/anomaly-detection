@@ -98,45 +98,7 @@ Exemplu structură:
 
 
 ================================================================================
-5. FIȘIERE GENERATE
---------------------------------------------------------------------------------
-
-După rulare, se generează metricile cu ajutorul functiei " plot_metrics.py " prin rularea :
-  
-  python plot_metrics.py 
-
-Astfel, se obtin urmatoarele fisiere:
-
-    metrics_complete.csv
-    metrics_summary.csv
-    metrics_partial.csv
-    false_positive_cases.csv
-    false_negative_cases.csv
-    checkpoints/
-
-Descriere:
-
-    metrics_complete.csv
-        Conține toate metricile pentru fiecare dataset, noise level, model și source.
-
-    metrics_summary.csv
-        Conține media metricilor pe fiecare dataset, model și noise level.
-
-    metrics_partial.csv
-        Salvează rezultate intermediare în timpul rulării.
-
-    false_positive_cases.csv
-        Conține cazurile cu cele mai multe False Positive.
-
-    false_negative_cases.csv
-        Conține cazurile cu cele mai multe False Negative.
-
-    checkpoints/
-        Conține checkpoint-urile salvate în timpul antrenării.
-
-
-================================================================================
-6. RULAREA MODELELOR INDIVIDUALE
+5. RULAREA MODELELOR INDIVIDUALE
 --------------------------------------------------------------------------------
 
 ADMoE cu MLP:
@@ -165,7 +127,7 @@ Baseline XGBOD:
 
 
 ================================================================================
-7. STRUCTURA PROIECTULUI
+6. STRUCTURA PROIECTULUI
 --------------------------------------------------------------------------------
 
     main.py
@@ -202,7 +164,7 @@ Baseline XGBOD:
 
 
 ================================================================================
-8. OBSERVAȚII
+7. OBSERVAȚII
 --------------------------------------------------------------------------------
 
 Rulare completă:
