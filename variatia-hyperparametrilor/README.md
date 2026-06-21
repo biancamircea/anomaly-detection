@@ -20,7 +20,7 @@ Fișierul principal este `ADMoE_Hyperparameter_Evaluation_Fast.py` și:
 
 ## Cerințe
 
-- Python `3.11+` recomandat
+- Python `3.11`
 - Dependențele din `requirements.txt`
 
 
